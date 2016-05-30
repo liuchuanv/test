@@ -1,4 +1,0 @@
-这是一个测试
-这是一个测试
-git config --global user.name 'work'
-测试user.name的作用2
